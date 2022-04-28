@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\SVHER5744\Downloads\Mphasis-Advanced-Training-Assignments-main\Mphasis-Advanced-Training-Assignments-main\Core Java Assignments\Problem Statement 1"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 8.3"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 8.2"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 8.1"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 7.3"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 7.2"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 7.1"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 6.4"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 6.3"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 6.2"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 6.1"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 5.3"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 5.2"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 5.1"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 4.1"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 3.2"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 2.3"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 2.2"/>
+			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 2.1"/>
+		</list>
+	</section>
+</section>
