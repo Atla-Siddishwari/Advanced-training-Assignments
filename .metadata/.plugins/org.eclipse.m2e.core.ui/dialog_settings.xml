@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Day4-ProblemStatement 4\ProblemStatements4"/>
 			<item value="C:\Users\SVHER5744\Desktop\sample projects\Problem-Statement 1.3"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -12,5 +13,23 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="ProblemStatement4-ShoppinCart"/>
+			<item value="ProblemStatement4"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="ProblemStatement4-ShoppingCart"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>

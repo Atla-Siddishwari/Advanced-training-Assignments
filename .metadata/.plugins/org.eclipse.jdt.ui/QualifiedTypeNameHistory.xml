@@ -2,4 +2,12 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.NameNotValidException"/>
     <fullyQualifiedTypeName name="com.AgeNotWithInRangeException"/>
+    <fullyQualifiedTypeName name="com.fpt.nhatnk.pms.ui.ProductConsole"/>
+    <fullyQualifiedTypeName name="com.fpt.nhatnk.pms.ui.ProductConsole.ProductConsole"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.SQLClientInfoException"/>
+    <fullyQualifiedTypeName name="java.sql.DatabaseMetaData"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
 </qualifiedTypeNameHistroy>
