@@ -528,3 +528,236 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2022-05-02 13:45:52,407 [Worker-125: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Problem Statement 4-Shopping Cart
 2022-05-02 13:45:52,407 [Worker-125: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Problem Statement 4-Shopping Cart
 2022-05-02 13:45:52,412 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 14:43:00,520 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-02 14:45:02,357 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 14:45:02,359 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 14:45:04,772 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 14:45:04,773 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 14:45:04,775 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement4-ShoppinCart:ProblemStatement4-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\pom.xml.
+2022-05-02 14:45:07,271 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 14:45:07,271 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 14:45:07,274 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 14:45:07,274 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 15:47:03,551 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:47:03,552 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 15:47:03,554 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:47:03,555 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 15:48:45,436 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:48:45,436 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 15:48:45,438 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:48:45,438 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 15:49:00,762 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:49:00,763 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 15:49:00,766 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:49:00,766 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 15:56:24,349 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:56:24,350 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 15:56:24,353 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:56:24,353 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 15:59:17,990 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:59:17,990 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 15:59:17,994 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:59:17,994 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 15:59:28,374 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:59:28,375 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 15:59:28,377 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 15:59:28,378 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 16:03:25,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:03:25,350 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 16:03:25,355 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:03:25,356 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 16:14:52,925 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:14:52,927 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 16:14:52,932 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:14:52,933 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 16:16:21,076 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:16:21,076 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 16:16:21,078 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:16:21,079 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 16:53:51,851 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement5:ProblemStatement5-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\pom.xml.
+2022-05-02 16:53:53,212 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 16:53:53,214 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:53:53,218 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 16:53:53,221 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:53:53,449 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Problem Statement 5-Shopping Cart/src/main/java
+2022-05-02 16:53:53,450 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Problem Statement 5-Shopping Cart/src/test/java
+2022-05-02 16:53:54,208 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-02 16:53:54,314 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement5:ProblemStatement5-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\pom.xml.
+2022-05-02 16:53:54,506 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Problem Statement 5-Shopping Cart/src/main/java
+2022-05-02 16:53:54,508 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Problem Statement 5-Shopping Cart/src/test/java
+2022-05-02 16:53:54,875 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Problem Statement 5-Shopping Cart
+2022-05-02 16:53:54,951 [Worker-75: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-05-02 16:53:55,076 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 16:53:55,079 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:53:55,082 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 16:53:55,084 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:53:55,085 [Worker-77: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Problem Statement 5-Shopping Cart
+2022-05-02 16:53:55,086 [Worker-77: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Problem Statement 5-Shopping Cart
+2022-05-02 16:53:55,246 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 16:54:27,662 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement5:ProblemStatement5-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\pom.xml.
+2022-05-02 16:54:27,870 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:27,871 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:54:27,872 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:27,874 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:54:27,874 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Problem Statement 5-Shopping Cart
+2022-05-02 16:54:27,875 [Worker-78: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Problem Statement 5-Shopping Cart
+2022-05-02 16:54:27,880 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:38,639 [Worker-79: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-05-02 16:54:42,439 [Worker-79: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement4-ShoppinCart:ProblemStatement4-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\pom.xml.
+2022-05-02 16:54:42,502 [Worker-79: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement5:ProblemStatement5-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\pom.xml.
+2022-05-02 16:54:46,264 [Worker-79: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Problem Statement 5-Shopping Cart/src/main/java
+2022-05-02 16:54:46,265 [Worker-79: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Problem Statement 5-Shopping Cart/src/test/java
+2022-05-02 16:54:46,530 [Worker-79: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Problem Statement 5-Shopping Cart
+2022-05-02 16:54:46,538 [Worker-79: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2022-05-02 16:54:46,742 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:46,743 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:54:46,746 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:46,746 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:54:46,747 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Problem Statement 5-Shopping Cart
+2022-05-02 16:54:46,748 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Problem Statement 5-Shopping Cart
+2022-05-02 16:54:46,753 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:47,378 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:47,378 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\main\resources
+2022-05-02 16:54:47,381 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:54:47,381 [Worker-78: Building Project Problem Statement 5-Shopping Cart] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 4-Shopping Cart\src\test\resources
+2022-05-02 16:55:15,962 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:55:15,963 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:55:15,965 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:55:15,967 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:55:51,090 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:55:51,091 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:55:51,093 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:55:51,094 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:56:02,011 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:56:02,012 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:56:02,014 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:56:02,015 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:56:27,711 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:56:27,711 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:56:27,713 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:56:27,714 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:57:08,902 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:08,904 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:57:08,905 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:08,906 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:57:35,552 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:35,552 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:57:35,554 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:35,554 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:57:46,864 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:46,865 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:57:46,869 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:46,870 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:57:55,119 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:55,120 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:57:55,121 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:57:55,122 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:58:18,770 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:58:18,770 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:58:18,773 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:58:18,773 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:58:28,038 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:58:28,039 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:58:28,040 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:58:28,040 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:59:00,714 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:59:00,715 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:59:00,716 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:59:00,716 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 16:59:48,923 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:59:48,925 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 16:59:48,927 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 16:59:48,927 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:00:15,454 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:00:15,455 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:00:15,456 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:00:15,456 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:02:06,142 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:06,143 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:02:06,145 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:06,145 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:02:09,551 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:09,551 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:02:09,554 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:09,555 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:02:27,280 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:27,281 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:02:27,282 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:27,283 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:02:30,299 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:30,300 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:02:30,301 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:30,302 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:02:49,294 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:49,295 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:02:49,297 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:49,297 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:02:52,596 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:52,597 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:02:52,598 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:02:52,599 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:03:58,398 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:03:58,399 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:03:58,400 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:03:58,400 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:04:14,085 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:04:14,085 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:04:14,087 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:04:14,087 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:04:40,685 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:04:40,686 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:04:40,687 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:04:40,687 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:04:43,752 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:04:43,752 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:04:43,753 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:04:43,753 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:05:24,374 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:05:24,375 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:05:24,376 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:05:24,376 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:05:38,148 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:05:38,148 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:05:38,150 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:05:38,151 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:05:58,907 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:05:58,908 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:05:58,909 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:05:58,909 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:06:24,698 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:06:24,699 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:06:24,702 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:06:24,703 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:06:45,775 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:06:45,775 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:06:45,777 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:06:45,777 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:06:57,582 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:06:57,582 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:06:57,583 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:06:57,584 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:07:18,160 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:18,161 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:07:18,162 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:18,162 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:07:21,502 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:21,504 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:07:21,506 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:21,507 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:07:43,159 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:43,168 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:07:43,172 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:43,172 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:07:46,253 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:46,254 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\main\resources
+2022-05-02 17:07:46,255 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-02 17:07:46,256 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\Problem Statement 5-Shopping Cart\src\test\resources
+2022-05-02 17:21:18,798 [Worker-81: Creating project "ProblemStatement-4-ShoppingCart"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ProblemStatement-4:ProblemStatement-4-ShoppingCart:0.0.1-SNAPSHOT @ C:\Users\SVHER5744\Desktop\Atla-Siddishwari-Advance Training Assignments\ProblemStatement-4-ShoppingCart\pom.xml.
+2022-05-02 17:21:19,338 [Worker-81: Creating project "ProblemStatement-4-ShoppingCart"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProblemStatement-4-ShoppingCart/src/main/java
+2022-05-02 17:21:19,339 [Worker-81: Creating project "ProblemStatement-4-ShoppingCart"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProblemStatement-4-ShoppingCart/src/main/resources
+2022-05-02 17:21:19,339 [Worker-81: Creating project "ProblemStatement-4-ShoppingCart"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProblemStatement-4-ShoppingCart/src/test/java
+2022-05-02 17:21:19,340 [Worker-81: Creating project "ProblemStatement-4-ShoppingCart"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProblemStatement-4-ShoppingCart/src/test/resources
+2022-05-02 17:21:19,599 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 17:21:19,603 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-02 17:21:19,604 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-05-02 17:21:19,605 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
